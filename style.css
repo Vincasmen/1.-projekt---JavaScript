@@ -25,11 +25,6 @@ nav {
   margin-right: 30px;
 }
 
-/* ul {
-  display: inline-block;
-  flex-direction: row;
-} */
-
 nav li {
   display: inline-block;
   list-style-type: none;
